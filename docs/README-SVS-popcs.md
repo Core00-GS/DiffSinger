@@ -2,7 +2,6 @@
 
 ### 0. Data Acquirement
 - [Download link](https://drive.google.com/file/d/1uFJmPEUWbzguGBdiuupYvYbBEjopN-Xq/view?usp=sharing).
-- Please note that, if you are using PopCS, it means that you have accepted the terms in [apply_form](https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md).
 
 ### 1. Preparation
 #### Data Preparation
